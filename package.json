@@ -1,0 +1,25 @@
+{
+  "name": "squarelogger",
+  "version": "1.0.0",
+  "description": "A Node.js library for logging info, warnings, and Errors.",
+  "main": "SquareLogger.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Shane-Games/SquareLogger.git"
+  },
+  "keywords": [
+    "Log",
+    "Errors",
+    "Warnings",
+    "Info"
+  ],
+  "author": "Shane-Games",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/Shane-Games/SquareLogger/issues"
+  },
+  "homepage": "https://github.com/Shane-Games/SquareLogger#readme"
+}
