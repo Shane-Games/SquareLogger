@@ -17,15 +17,15 @@
 ###### Methods of logging
 ```js 
  const squareLogger = require('squarelogger'); 
- squarelogger.logInfo('info') // -> [INFO]: Info
- squarelogger.logWarn('warning') // -> [WARN]: warning
- squarelogger.logError('error') // -> [ERROR]: error
- squarelogger.logDebug('debug') // -> [DEBUG]: debug
+ squarelogger.logInfo('info'); // -> [INFO]: Info
+ squarelogger.logWarn('warning'); // -> [WARN]: warning
+ squarelogger.logError('error'); // -> [ERROR]: error
+ squarelogger.logDebug('debug'); // -> [DEBUG]: debug
 ```
 ###### Methods of logging 
 
 ##### Basic example of creating a log file
 ```js 
 const squareLogger = require('squarelogger');
-squarelogger.
+squarelogger.logInfo('Program Started');
 ```
