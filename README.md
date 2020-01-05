@@ -22,7 +22,6 @@
  squarelogger.logError('error'); // -> [ERROR]: error
  squarelogger.logDebug('debug'); // -> [DEBUG]: debug
 ```
-###### Methods of logging 
 
 ##### Basic example of creating a log file
 ```js 
